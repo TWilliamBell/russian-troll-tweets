@@ -1,6 +1,6 @@
 Read Me
 
-The data may be found in IRAhandle_tweets.csv and the information that came with it is in the file README from FiveThirtyEight.  My brief analysis is in the R file marked Data_Analysis.R, and the product of it is in this repository both in pdf and png form (the R script spits out a pdf).
+The data was originally found in IRAhandle_tweets.csv (since replaced by several chunks of that csv file) and the information that came with it is in the file README from FiveThirtyEight.  My brief analysis is in the R file marked Data_Analysis.R, and the product of it is in this repository both in pdf and png form (the R script spits out a pdf).
 
 My bet is that Chicago and Baltimore got lots of mentions because gun violence/black on black crime/inner cities/blah blah, although I would like to see if the data bears that out. I will add to my analysis for that subset of the data.  Miami and Charlotte are likely mentioned because of the shooting in Miami and the white supremacist and deadly march in Charlotte.
 
