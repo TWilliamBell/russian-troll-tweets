@@ -2,6 +2,8 @@
 
 # setwd("~/Desktop/russian-troll-tweets")
 
+## This script used an earlier version of the russian-troll-tweets repository that had the tweets in one large file.  This can be done by reading the files in separately and then merging the data, however I am not in the mood to figure out LFS well enough to upload my earlier copy of the csv file so I cannot provide it.
+
 library(data.table)
 library(ggplot2)
 
